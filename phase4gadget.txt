@@ -1,0 +1,8 @@
+0000000000001cb0 <addval_336>:
+    1cb0:	8d 87 58 c3 71 94    	lea    -0x6b8e3ca8(%rdi),%eax
+    1cb6:	c3                   	retq     
+0000000000001cbe <setval_117>:
+    1cbe:	c7 07 48 89 c7 c3    	movl   $0xc3c78948,(%rdi)
+    1cc4:	c3                   	retq 
+5cb2
+
